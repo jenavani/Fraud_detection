@@ -1,0 +1,11 @@
+Flask
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+joblib
+catboost
+scipy
+logging
+
